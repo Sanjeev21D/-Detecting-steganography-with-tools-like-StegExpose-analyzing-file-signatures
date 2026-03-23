@@ -50,6 +50,8 @@ List of Images with Steganography Detection Scores and File Signature Details
 <img width="280" height="72" alt="image" src="https://github.com/user-attachments/assets/1715704c-614d-4e4a-bf4c-594b7816c466" />
 <img width="432" height="171" alt="image" src="https://github.com/user-attachments/assets/a9341a42-8b67-4bae-af63-1207c733fc9a" />
 <img width="272" height="54" alt="image" src="https://github.com/user-attachments/assets/a61cd8db-1a0f-4c14-ae08-16799f8a5286" />
+<img width="316" height="84" alt="image" src="https://github.com/user-attachments/assets/9713b0f5-1f1b-492e-b27a-ea6e766c0ad6" />
+
 <img width="479" height="200" alt="image" src="https://github.com/user-attachments/assets/2a0235a0-a99d-422b-a070-3bced01a1180" />
 <img width="305" height="72" alt="image" src="https://github.com/user-attachments/assets/b3cff237-b08f-4325-a00b-8587e46820f2" />
 <img width="479" height="200" alt="image" src="https://github.com/user-attachments/assets/589a92ea-18c7-46d0-845f-b97726a4952e" />
